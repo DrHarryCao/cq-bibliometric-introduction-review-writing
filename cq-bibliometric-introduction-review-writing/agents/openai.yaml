@@ -1,0 +1,4 @@
+interface:
+  display_name: "CQ Bibliometric · Introduction · Review · Writing"
+  short_description: "可追溯计量、绪论、综述与HTML交付 · JWC💗XQ@Rednote drharry"
+  default_prompt: "Use $cq-bibliometric-introduction-review-writing to choose API or API-free acquisition, build an auditable review, direct research gaps, and export single-file HTML/RIS. JWC💗XQ@Rednote drharry."
