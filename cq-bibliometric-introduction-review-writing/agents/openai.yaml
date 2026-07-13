@@ -1,0 +1,4 @@
+interface:
+  display_name: "CQ Bibliometric · Introduction · Review · Writing"
+  short_description: "可追溯计量、非阻断理论库、原子引文审计与投稿写作 · JWC💗XQ@Rednote drharry"
+  default_prompt: "Use $cq-bibliometric-introduction-review-writing to acquire or import literature, optionally use a non-blocking user theory library, audit gaps and atomic claim-to-citation support, draft evidence-aware and publication-ready review/introduction variants, and export HTML/RIS. JWC💗XQ@Rednote drharry."
