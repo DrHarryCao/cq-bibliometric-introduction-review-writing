@@ -1,0 +1,4 @@
+interface:
+  display_name: "CQ Bibliometric · Introduction · Review · Writing"
+  short_description: "可追溯计量、缺口审计、动态方法、绪论与综述 · JWC💗XQ@Rednote drharry"
+  default_prompt: "Use $cq-bibliometric-introduction-review-writing to acquire or import literature, audit explanatory/evidential gaps, dynamically match research designs and methods, draft a review/introduction, and export HTML/RIS. JWC💗XQ@Rednote drharry."
