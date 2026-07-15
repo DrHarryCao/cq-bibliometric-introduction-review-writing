@@ -1,2 +1,0 @@
--r requirements-core.txt
-# Optional: install requirements-ocr.txt for OCR. No embedding packages are used.
