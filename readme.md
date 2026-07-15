@@ -7,7 +7,7 @@
 
 <!-- CQ_DOC_FACTS {"doc_version":"2026-07-15","skill_schema":12,"sections":["purpose","platform","installation","quickstart","acquisition","workflow","records","corpus","analysis","evidence","gaps","writing","delivery","commands","troubleshooting","integrity","demos"],"topic_model":"NMF","kmeans_role":"diagnostic-only","focus":"task-specific","embedding":"disabled-by-default","pregenerated_docx":false,"variants":["evidence-aware","publication"],"embedded_demos":["introduction-publication-draft","review-evidence-aware-draft"],"brand":"JWC💗XQ@Rednote drharry"} -->
 
-[中文说明](#中文说明) · [English Guide](#english-guide) · [官方链接](#官方链接与版本说明--official-links-and-version-notes)
+[中文说明](#中文说明) · [English Guide](#english-guide) · [配件模块官方链接](#配件官方链接与版本说明--Plugin setup official-links-and-version-notes)
 
 ---
 
