@@ -1,4 +1,4 @@
-# CQ Bibliometric · Introduction · Review · Writing (Codex & claude Skill) 
+# CQ Bibliometric · Introduction · Review · Writing (Codex & Claude Skill) 
 
 > 从研究主题、题录或合法全文出发，完成可追溯文献计量、系统综述与 SSCI 漏斗型绪论。  
 > Build traceable bibliometric analyses, systematic reviews, and funnel-shaped SSCI introductions from a topic, bibliographic records, or lawfully available full texts.
